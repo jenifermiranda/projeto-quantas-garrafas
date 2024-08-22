@@ -1,0 +1,2 @@
+<!-- Nesse diretório, são colocados outros arquivos estáticos necessários para a sua aplicação, como imagens, fontes e vídeos. Como os arquivos que estão aqui não são públicos, você precisará importá-los nos componentes que forem os utilizar.
+crie um arquivo com o nome que vai usar e importe no arquivo que for usar (App.tsx) -->
